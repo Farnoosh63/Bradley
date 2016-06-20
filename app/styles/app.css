@@ -14,7 +14,7 @@ footer {
 }
 
 .aboutBrad {
-  background-image: url('img/brad.png');
+  background-image: url('https://s26.postimg.org/vvvritkqh/brad.jpg');
   height: 450px;
   width: 500px;
 }
@@ -142,7 +142,7 @@ footer {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url('img/bg.jpg') no-repeat center center fixed;
+  background: url('https://s26.postimg.org/c2o93uwqh/image.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -187,7 +187,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/callout.jpg) no-repeat center center fixed;
+  /*background: url(../img/callout.jpg) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -199,7 +199,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/earth.jpg) no-repeat center center fixed;
+  /*background: url(../img/earth.jpg) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -223,7 +223,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/ceremonies.jpg) no-repeat center center fixed;
+  /*background: url(../img/ceremonies.jpg) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -271,7 +271,7 @@ i.service-icon {
   display: table;
   height: 800px;
   width: 100%;
-  background: url(../img/day.jpg) no-repeat center center fixed;
+  /*background: url(../img/day.jpg) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -335,11 +335,11 @@ i.scroll:hover {
 @media (max-width: 768px) {
 
   .header {
-	background: url(../img/bg.jpg) no-repeat center center scroll;
+	/*background: url(../img/bg.jpg) no-repeat center center scroll;*/
   }
 
   .callout {
-	background: url(../img/callout.jpg) no-repeat center center scroll;
+	/*background: url(../img/callout.jpg) no-repeat center center scroll;*/
   }
 
   .map {
