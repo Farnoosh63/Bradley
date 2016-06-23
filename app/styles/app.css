@@ -347,3 +347,35 @@ i.scroll:hover {
   }
 
 }
+
+
+@media (min-width: 100px) and (max-width: 1190px) {
+  #ftr-large-add { display:none!important; }
+}
+
+.add-wrapper-db {
+   color: #CBCBCB;
+  font-size: 12px;
+  line-height: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #DFDFDF;
+  text-align: center;
+
+}
+
+
+
+.add-wrapper-db .add-block {
+        padding:5px;
+}
+/*
+.col-md-6 {
+  width: none;
+}
+@media (min-width: 992px){
+
+  .col-md-6 {
+    width: none;
+  }
+}*/
